@@ -1,0 +1,11 @@
+# Vim
+*~
+
+# Build System
+pkg/
+src/
+*.xz
+*.gz
+cplf-master/
+
+
